@@ -1,2 +1,4 @@
-# CV-Study
-Paper / Dacon
+## CV-Study
+- Paper Review
+- TensorFlow Tutorials
+- Dacon Competition
